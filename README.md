@@ -2,7 +2,9 @@
 # PDF summarizer for Alfred<!-- LTeX: enabled=true -->
 ![](https://img.shields.io/github/downloads/chrisgrieser/pdf-summarizer-alfred/total?label=Total%20Downloads&style=plastic) ![](https://img.shields.io/github/v/release/chrisgrieser/pdf-summarizer-alfred?label=Latest%20Release&style=plastic) 
 
-Get summaries of your PDFs via ChatPDF with just one hotkey.
+Get summaries of your PDFs via [ChatPDF](https://www.chatpdf.com/) with just one hotkey.
+
+Requires a ChatPDF API key, which is (currently) free for 5000 PDF pages / 500 requests per month.
 
 <img src="./assets/showcase.gif" alt="showcase" width=70%>
 
