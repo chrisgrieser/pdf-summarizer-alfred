@@ -4,7 +4,7 @@
 
 Get summaries of your PDFs via ChatPDF with just one hotkey.
 
-![]()
+<img src="./assets/showcase.gif" alt="showcase" width=70%>
 
 ## Installation & Setup
 [➡️ Download the latest release.](./releases/latest)
@@ -17,7 +17,7 @@ When admitted to the Alfred Gallery, the workflow auto-updates via Alfred's work
 3. In the footer, click `My Account`. You will be prompted to create an account if you do not have one yet.
 4. In `My Account`, expand the `Developer` settings. You will find your API key there:
 
-![how to find the API key](./assets/how-to-get-api-key.png)
+<img src="./assets/how-to-get-api-key.png" alt="how to find the API key" width=40%>
 
 > [!NOTE]
 > **Advanced Users:** Instead of entering the API key directly, you can also enter `.zshenv` into the API key field. The workflow will then use the key exported as `CHATPDF_API_KEY` in your `.zshenv`.
