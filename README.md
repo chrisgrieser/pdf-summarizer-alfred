@@ -4,6 +4,8 @@
 
 Get summaries of your PDFs via ChatPDF with just one hotkey.
 
+![]()
+
 ## Installation & Setup
 [➡️ Download the latest release.](./releases/latest)
 
