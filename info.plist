@@ -284,7 +284,7 @@ fi</string>
 ---
 
 **Advanced Users**
-Instead of entering the API key directly, you can also enter ".zshenv" into the API key field. The workflow will then use the key exported as `CHATPDF_API_KEY` in your "`.zshenv`.
+Instead of entering the API key directly, you can also enter ".zshenv" into the API key field. The workflow will then use the key exported as `CHATPDF_API_KEY` in your " `.zshenv`.
 
 ---
 
