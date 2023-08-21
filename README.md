@@ -1,8 +1,8 @@
  <!-- LTeX: disabled=true -->
-# {{workflow-name}} <!-- LTeX: enabled=true -->
-![](https://img.shields.io/github/downloads/chrisgrieser/{{workflow-id}}/total?label=Total%20Downloads&style=plastic) ![](https://img.shields.io/github/v/release/chrisgrieser/{{workflow-id}}?label=Latest%20Release&style=plastic) 
+# pdf summarizer alfred <!-- LTeX: enabled=true -->
+![](https://img.shields.io/github/downloads/chrisgrieser/pdf-summarizer-alfred/total?label=Total%20Downloads&style=plastic) ![](https://img.shields.io/github/v/release/chrisgrieser/pdf-summarizer-alfred?label=Latest%20Release&style=plastic) 
 
-{{workflow-description}}
+Get summaries of your PDFs via ChatPDF.
 
 - [ ] Showcase image to be inserted here.
 
