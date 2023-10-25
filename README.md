@@ -6,7 +6,9 @@ Get summaries of your PDFs via [ChatPDF](https://www.chatpdf.com/) with just one
 
 Requires a ChatPDF API key, which is (currently) free for 5000 PDF pages / 500 requests per month.
 
-<img src="./assets/showcase.gif" alt="showcase" width=70%>
+<img width="60%" alt="Showcase Universal Action" src="https://github.com/chrisgrieser/pdf-summarizer-alfred/assets/73286100/a4c8e7e7-cb56-4727-9a0e-ddfc91461c11">
+
+<img src="./assets/showcase.gif" alt="showcase gif" width=70%>
 
 ## Installation & Setup
 [➡️ Download the latest release.](./releases/latest)
