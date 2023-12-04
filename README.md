@@ -38,6 +38,20 @@ The workflow auto-updates via Alfred's workflow-update mechanism.
   or the [hotkey](https://www.alfredapp.com/help/workflows/triggers/hotkey/)
   while having selected a PDF file in Finder.
 
+
+## Recommended Citation
+
+Please cite this software project as (APA):
+
+```txt
+Grieser, C. (2023). PDF summarizer for Alfred [Computer software]. 
+https://github.com/chrisgrieser/pdf-summarizer-alfred
+```
+
+For other citation styles, use the following metadata:
+- [Citation File Format](./CITATION.cff)
+- [BibTeX](./CITATION.bib)
+
 ## Credits
 <!-- vale Google.FirstPerson = NO -->
 **About Me**  
