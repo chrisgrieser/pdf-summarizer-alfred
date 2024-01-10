@@ -8,6 +8,10 @@ prefs.plist
 README.md
 LICENSE
 Makefile
-build-and-release.sh
+.build-and-release.sh
 CITATION.bib
 CITATION.cff
+
+alfred.d.ts
+jsconfig.json
+jxa-globals.d.ts
