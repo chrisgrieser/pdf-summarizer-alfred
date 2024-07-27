@@ -4,8 +4,6 @@
 <dict>
 	<key>bundleid</key>
 	<string>de.chris-grieser.pdf-summarizer</string>
-	<key>category</key>
-	<string>⭐️</string>
 	<key>connections</key>
 	<dict>
 		<key>2521CCD5-BF7A-401F-84A7-7EBD1562E94C</key>
@@ -141,11 +139,9 @@
 				<key>focusedappvariablename</key>
 				<string></string>
 				<key>hotkey</key>
-				<integer>35</integer>
+				<integer>0</integer>
 				<key>hotmod</key>
-				<integer>524288</integer>
-				<key>hotstring</key>
-				<string>P</string>
+				<integer>0</integer>
 				<key>leftcursor</key>
 				<false/>
 				<key>modsmode</key>
@@ -174,7 +170,7 @@ The ChatPDF API key is (currently) free for 5000 PDF pages / 500 requests per mo
 3. In the footer, click `My Account`. You will be prompted to create an account if you do not have one yet.
 4. In `My Account`, expand the `Developer` settings. You will find your API key there:
 
-![how to find the API key](./assets/how-to-get-api-key.png)
+![how to find the API key](./how-to-get-api-key.png)
 
 ---
 

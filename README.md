@@ -1,5 +1,4 @@
- <!-- LTeX: disabled=true -->
-# PDF summarizer for Alfred<!-- LTeX: enabled=true -->
+# PDF summarizer for Alfred
 ![Download count](https://img.shields.io/github/downloads/chrisgrieser/pdf-summarizer-alfred/total?label=Total%20Downloads&style=plastic)
 ![Last release](https://img.shields.io/github/v/release/chrisgrieser/pdf-summarizer-alfred?label=Latest%20Release&style=plastic)
 
@@ -11,7 +10,7 @@ requests per month.
 
 <img width="60%" alt="Showcase Universal Action" src="https://github.com/chrisgrieser/pdf-summarizer-alfred/assets/73286100/a4c8e7e7-cb56-4727-9a0e-ddfc91461c11">
 
-<img src="./assets/showcase.gif" alt="showcase gif" width=70%>
+<img alt="showcase" width=70% src="https://github.com/user-attachments/assets/5fd86ec0-469b-4a13-873f-6118169b7f06">
 
 ## Installation & Setup
 [➡️ Download the latest release.](./releases/latest)
@@ -25,7 +24,7 @@ The workflow auto-updates via Alfred's workflow-update mechanism.
    you do not have one yet.
 4. In `My Account`, expand the `Developer` settings. You can find your API key there:
 
-<img src="./assets/how-to-get-api-key.png" alt="how to find the API key" width=40%>
+<img src="./how-to-get-api-key.png" alt="how to find the API key" width=40%>
 
 > [!NOTE]
 > **Advanced Users:** Instead of entering the API key directly, you can also
@@ -40,7 +39,6 @@ The workflow auto-updates via Alfred's workflow-update mechanism.
 
 
 ## Recommended Citation
-
 Please cite this software project as (APA):
 
 ```txt
@@ -52,18 +50,14 @@ For other citation styles, use the following metadata:
 - [Citation File Format](./CITATION.cff)
 - [BibTeX](./CITATION.bib)
 
-## Credits
 <!-- vale Google.FirstPerson = NO -->
-**About Me**  
+## Credits
 In my day job, I am a sociologist studying the social mechanisms underlying the
 digital economy. For my PhD project, I investigate the governance of the app
 economy and how software ecosystems manage the tension between innovation and
 compatibility. If you are interested in this subject, feel free to get in touch.
 
-**Profiles**  
-- [Discord](https://discordapp.com/users/462774483044794368/)
 - [Academic Website](https://chris-grieser.de/)
-- [Twitter](https://twitter.com/pseudo_meta)
 - [Mastodon](https://pkm.social/@pseudometa)
 - [ResearchGate](https://www.researchgate.net/profile/Christopher-Grieser)
 - [LinkedIn](https://www.linkedin.com/in/christopher-grieser-ba693b17a/)
