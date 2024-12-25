@@ -33,11 +33,10 @@ The workflow auto-updates via Alfred's workflow-update mechanism.
 > exported as `CHATPDF_API_KEY` in your `.zshenv`.
 
 ## Usage
-- Use the [Universal
-  Action](https://www.alfredapp.com/help/workflows/triggers/universal-actions/)
-  or the [hotkey](https://www.alfredapp.com/help/workflows/triggers/hotkey/)
-  while having selected a PDF file in Finder.
-
+Use the [Universal
+Action](https://www.alfredapp.com/help/workflows/triggers/universal-actions/) or
+the [hotkey](https://www.alfredapp.com/help/workflows/triggers/hotkey/) while
+having selected a PDF file in Finder.
 
 ## Recommended Citation
 Please cite this software project as (APA):
@@ -47,11 +46,9 @@ Grieser, C. (2023). PDF summarizer for Alfred [Computer software].
 https://github.com/chrisgrieser/pdf-summarizer-alfred
 ```
 
-For other citation styles, use the following metadata:
-- [Citation File Format](./CITATION.cff)
-- [BibTeX](./CITATION.bib)
+For other citation styles, use the following metadata: [Citation File
+Format](./CITATION.cff)
 
-<!-- vale Google.FirstPerson = NO -->
 ## Credits
 In my day job, I am a sociologist studying the social mechanisms underlying the
 digital economy. For my PhD project, I investigate the governance of the app
@@ -63,11 +60,6 @@ compatibility. If you are interested in this subject, feel free to get in touch.
 - [ResearchGate](https://www.researchgate.net/profile/Christopher-Grieser)
 - [LinkedIn](https://www.linkedin.com/in/christopher-grieser-ba693b17a/)
 
-<a href='https://ko-fi.com/Y8Y86SQ91' target='_blank'>
-<img
-	height='36'
-	style='border:0px;height:36px;'
-	src='https://cdn.ko-fi.com/cdn/kofi1.png?v=3'
-	border='0'
-	alt='Buy Me a Coffee at ko-fi.com'
-/></a>
+<a href='https://ko-fi.com/Y8Y86SQ91' target='_blank'> <img height='36'
+style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi1.png?v=3'
+border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
