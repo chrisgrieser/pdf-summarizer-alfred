@@ -23,7 +23,8 @@ The workflow auto-updates via Alfred's workflow-update mechanism.
 2. Scroll to the bottom of the page.
 3. In the footer, click `My Account`. You are prompted to create an account if
    you do not have one yet.
-4. In `My Account`, expand the `Developer` settings. You can find your API key there:
+4. In `My Account`, expand the `Developer` settings. You can find your API key
+   there:
 
 <img src="./how-to-get-api-key.png" alt="how to find the API key" width=40%>
 
